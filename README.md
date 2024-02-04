@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Andrei Alves
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedincom/in/andrei-alves-nunes)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-alves-06219b24a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iam_andreinunes)
 
 ![Andrei GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreialvesnunes&show_icons=true&theme=radical)
